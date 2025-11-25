@@ -379,7 +379,9 @@ Il existe deux types de Firmware :
 * Legacy : Mode routeur (possibilité de gérer le routage de 5 enfants)  
 * Limited : Mode routeur (1 seul routage autorisé)  
   
-⚠️ **La mise à jour OTA ne peut se faire que si le mode du fichier OTA est le même que le précédent.**  
+⚠️ **La mise à jour OTA classique ne peut se faire que si le mode du fichier OTA est le même que le précédent.**  
+
+⚠️ **Pour changer de mode, il est désormais possible d'utiliser les fichiers "limited2normal" ou "normal2limited" pour mettre à jour en changeant de mode.**
   
 Pour changer de mode, veuillez suivre la mise à jour (non OTA)  
 
